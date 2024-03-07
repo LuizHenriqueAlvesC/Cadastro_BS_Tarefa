@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(246, 246, 246, 0.982);
+}
+
+.container {
+    display: block;
+    align-items: center;
+    width: 500px;
+}
+
+.container h2 {
+    text-align: center;
+}
+
+form {
+    margin-left: 10px;
+    text-align: center;
+    max-width: 450px;
+}
+
+time {
+    display: block;
+}
+
+.post {
+    margin-bottom: 24px;
+}
